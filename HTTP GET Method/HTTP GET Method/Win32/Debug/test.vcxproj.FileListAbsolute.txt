@@ -1,0 +1,2 @@
+C:\Users\Yunus\Desktop\HTTPRequest-master\test\Win32\Debug\test.exe
+C:\Users\Yunus\Desktop\HTTPRequest-master\test\Win32\Debug\test.pdb
